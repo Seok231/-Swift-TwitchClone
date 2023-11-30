@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "twitchclone-e0b4d",
+  "private_key_id": "98241f93037dd9588c5375814e05728511495b9b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjQNjOP+/C92mZ\nncclSP6x5px3jON06DSce5IFF5LAhXeapO8l0D+GikGOlvCeDIPMODUFbQ+Zx57U\nXf4/+Sb14EYbpW/6jxm60I7qbT+9P0kN+xHw5KC46677T51qD3WANF3KejqTy/35\nko3xc6JJif5fA5hgvzgzcMp9nHn42TGoMdTss/HGjY+Akq0RwXxrI+N7qOQZ6LS5\nYlU/UgBrZn/XmzeXRmtj+HmBh8Q+B4O4NLuEDRvcxRPjD7j9+edtUB6hYknzbU2H\nJM0kKWlitK7Ki3wHypy4IT/Q575nSrQTKooSxjaoDy+PqP8Hol4nhQjw0Kinm0qV\nPqiyEpVfAgMBAAECggEABpKRR/h2ACzy0O7zuhIOwv3MVdnTvHyuxZAKCG9zBpI5\nBv5V7HlOXW3KhuGXzV0mnz2yEMZbxu6s+9LO7idrRKHjYLCP6hAB0q4b2t9MHiPi\nno/5oG+r8tX2RQLnDQKTUfaJwiGaoyGm13npgguMQJawKYYdB+Qa8KM9W8JFfNm9\nNqaV6S4oqyZvHdTjzCGKxyEUPnjxmbqmNcYnnTW325bWhsUUxFBZE96sqawzwyqq\nCsTAv24evAbAP3nZ+HuoBBjJ7SeccBCNtr8psOahmkR69+M167mCxtahMuHT2OQ2\n6w3BMfE26TMLZIhhA3yFiRbbAyugUAo60VlHpAkuLQKBgQDVYxGGUqd/Lr8hhZnw\n0xGE6F1yY649jP6iiHg/+wdnpjD5ngnFOVA/qr5oWHxheQP01dyuC96WwhydvEuG\nD3fswk4I+FHBT+bs7DUpz9x/sZHy2QbQXoWUVTgtyioGRDew3x+CE1UGIUk7ChVy\n9R+xb1CNXxciDUnoG0JABU/FmwKBgQDD2s5162WtNurIk2WiGDuLv4bOR/CNjL6c\nHoqSrzqhLoKyQ4C01tfo2jDYtOs6d+9O5x45Z2jEcneIzoM++pMzf/8fg4+UKuyE\neask/y2rp4WtNV6nyVfOkv7M5R6TiZMzZgro+rJbIPM1U63iiNQsZLnI8as3Xaxb\n993AA9utjQKBgFEPkVi1jWuDFphlaFVT2RPkMZuCwm4fYZvcu9GSSv3U5EXvA0co\nvpNxCWQaOSXOEvKvS2XSnHwowTYqkYYb2jLWnU5LBsOo1tCp6og3rkvT6N2YFD6T\nqarvtKewZMZ8o6tNF2sSbPonKuqCqiNBewisgK0zslX9NlY2BLTNT8CBAoGANPq7\nXqqOloyEdj1pALANa4Ajtyk+qQuphBG+6m78LR2nvREFf+WeAh8Dl5tZBjfrRCzA\nwEZ40KsmKpuyZRbjOssk+CFedXYnBK7k3N0qPYTTZEdLk5ejaP3abxKLct2ENCMm\nUF+AX6ZKI+K+5sicnGWi2/iDmDZ+qWIjWg2xHwECgYB1/CErmEFg6iAAJbHWIWWK\n+Vc4/xlEuoCcWm8MH076JtC7xsQLAwvg6kg/8NsFmlo2JQiJC5lr2a4rskE13gfN\nwGKjUTXqb2jtHvTPEb/TZHtGLiGH1+U2IyOcSxWZUSfIkHEdfNEYcVk9gJMC+tN8\nHM7A1vVlTkfGxql75+/1sw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-74pxs@twitchclone-e0b4d.iam.gserviceaccount.com",
+  "client_id": "103406647792801204933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-74pxs%40twitchclone-e0b4d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
