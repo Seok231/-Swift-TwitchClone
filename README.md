@@ -28,7 +28,8 @@ RTMP 송출은 RTMP(Host) -> Nginx -> HLS(시청자)로 구성되었습니다.
 
 Nginx를 테스트 할때만 개인 컴퓨터로 돌리고 있기 때문에 Live Stream Push 기능이 정상적으로 작동하지 않을수도 있습니다.
 
-개인 서버가 있으신분은 TwitchClone/StreamLive/StartStream/StartLive/StreamCam.swift -> let pushURL = "URL" 변경하시면 사용이 가능합니다. [ EX. (let pushURL = "rtmp://diddbstjr55.shop/hls") ]
+개인 서버가 있으신분은 TwitchClone/StreamLive/StartStream/StartLive/StreamCam.swift -> let pushURL = "URL" 변경하시면 사용이 가능합니다.
+[ EX. (let pushURL = "rtmp://diddbstjr55.shop/hls") ]
 
 
 
